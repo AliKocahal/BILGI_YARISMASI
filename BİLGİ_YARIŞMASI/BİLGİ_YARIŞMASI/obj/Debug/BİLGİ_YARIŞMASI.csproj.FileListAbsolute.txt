@@ -1,0 +1,9 @@
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\BİLGİ_YARIŞMASI\BİLGİ_YARIŞMASI\bin\Debug\BİLGİ_YARIŞMASI.exe.config
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\BİLGİ_YARIŞMASI\BİLGİ_YARIŞMASI\bin\Debug\BİLGİ_YARIŞMASI.exe
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\BİLGİ_YARIŞMASI\BİLGİ_YARIŞMASI\bin\Debug\BİLGİ_YARIŞMASI.pdb
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\BİLGİ_YARIŞMASI\BİLGİ_YARIŞMASI\obj\Debug\BİLGİ_YARIŞMASI.Form1.resources
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\BİLGİ_YARIŞMASI\BİLGİ_YARIŞMASI\obj\Debug\BİLGİ_YARIŞMASI.Properties.Resources.resources
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\BİLGİ_YARIŞMASI\BİLGİ_YARIŞMASI\obj\Debug\BİLGİ_YARIŞMASI.csproj.GenerateResource.Cache
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\BİLGİ_YARIŞMASI\BİLGİ_YARIŞMASI\obj\Debug\BİLGİ_YARIŞMASI.exe
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\BİLGİ_YARIŞMASI\BİLGİ_YARIŞMASI\obj\Debug\BİLGİ_YARIŞMASI.pdb
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\BİLGİ_YARIŞMASI\BİLGİ_YARIŞMASI\obj\Debug\BİLGİ_YARIŞMASI.csprojResolveAssemblyReference.cache
